@@ -4,6 +4,6 @@
 
 @layer base {
     body {
-        @apply w-full h-screen relative bg-secondary-500;
+        @apply w-full h-screen relative;
     }
 }
